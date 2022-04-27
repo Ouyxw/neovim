@@ -1,0 +1,6 @@
+失败：连接超时。
+失败：连接超时。
+失败：连接超时。
+失败：连接超时。
+utime(/home/ubuntu/.local/share/nvim/lsp_servers/zeta_note.tmp/zeta-note): 没有那个文件或目录
+2022-04-26 18:01:16 URL:https://objects.githubusercontent.com/github-production-release-asset-2e65be/345099636/3dc62057-0dcf-4ffe-b9c3-5d3ebde5c9f3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220426%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220426T100025Z&X-Amz-Expires=300&X-Amz-Signature=6aa1ad4d17e9da8d090fee0a508803ff21ebdb0c69963a50f7c3842a7ca486ad&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=345099636&response-content-disposition=attachment%3B%20filename%3Dzeta-note-linux&response-content-type=application%2Foctet-stream [10973168/10973168] -> "/home/ubuntu/.local/share/nvim/lsp_servers/zeta_note.tmp/zeta-note" [1]
